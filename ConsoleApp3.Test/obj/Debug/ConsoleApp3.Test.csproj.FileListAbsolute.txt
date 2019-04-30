@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\obj\Debug\ConsoleApp3.Test.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\obj\Debug\ConsoleApp3.Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\ConsoleApp3.Test.dll
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\ConsoleApp3.Test.pdb
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\ConsoleApp3.exe
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\ConsoleApp3.pdb
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\ConsoleApp3.exe.config
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\nunit.framework.pdb
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\obj\Debug\ConsoleApp3.Test.csproj.CopyComplete
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\obj\Debug\ConsoleApp3.Test.dll
+C:\Users\HP\source\repos\ConsoleApp3\ConsoleApp3.Test\obj\Debug\ConsoleApp3.Test.pdb
